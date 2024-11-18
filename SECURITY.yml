@@ -1,0 +1,43 @@
+# Security Policy
+
+## Supported Versions
+
+## Reporting a Vulnerability
+
+
+
+name: "CodeQL"
+
+on:
+  push:
+    branches : [master,developer]
+    pull_request:
+
+    branches : [develop]
+      schedule:
+    - cron: '31 11* * 1'
+    jobs:
+    analyze:
+    name: analyze
+    runs-on: ubuntu-latest
+
+    stratey: 
+    fail-fast: false
+    matrix:
+    language: ['csharp']
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Initialize CodeQL
+        uses: githu/codeql-action/int@v1
+        with:
+          languages: ${{matrix.language}}
+
+      - name: Autobuild
+        uses: giyhub/codeql-action/autobuild@v1
+
+  - name: Perform CodeQL Analysis
+    uses: github/codeql-action/analyze@v1
+    
+    
