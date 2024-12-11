@@ -1,0 +1,25 @@
+﻿<Window x:Class="Example01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        
+        Title="MainWindow" Height="604" Width="605">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height ="1"/>
+            <RowDefinition Height ="1"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <Image Width="200" Source="image.jfif"
+                   VerticalAlignment="Top" Margin="30"/>
+            <Image Width="200" Source="image.jfif"
+                   VerticalAlignment="Top" Margin="30" Opacity="0.5"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <Ellipse Height="100" Width="200"    HorizontalAlignment="Center" Margin="30">
+                <Ellipse.Fill>
+                    <ImageBrush ImageSource="image2.jfif"/>
+                </Ellipse.Fill>
+            </Ellipse>
+        </StackPanel>
+    </Grid>
+</Window>
