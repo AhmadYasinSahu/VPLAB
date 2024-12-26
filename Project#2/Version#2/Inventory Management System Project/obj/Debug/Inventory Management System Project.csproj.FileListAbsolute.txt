@@ -1,0 +1,14 @@
+C:\Users\Salal Computers\source\repos\Inventory Management System Project\Inventory Management System Project\bin\Debug\Inventory Management System Project.exe.config
+C:\Users\Salal Computers\source\repos\Inventory Management System Project\Inventory Management System Project\bin\Debug\Inventory Management System Project.exe
+C:\Users\Salal Computers\source\repos\Inventory Management System Project\Inventory Management System Project\bin\Debug\Inventory Management System Project.pdb
+C:\Users\Salal Computers\source\repos\Inventory Management System Project\Inventory Management System Project\obj\Debug\Inventory Management System Project.csproj.AssemblyReference.cache
+C:\Users\Salal Computers\source\repos\Inventory Management System Project\Inventory Management System Project\obj\Debug\MainWindow.baml
+C:\Users\Salal Computers\source\repos\Inventory Management System Project\Inventory Management System Project\obj\Debug\MainWindow.g.cs
+C:\Users\Salal Computers\source\repos\Inventory Management System Project\Inventory Management System Project\obj\Debug\App.g.cs
+C:\Users\Salal Computers\source\repos\Inventory Management System Project\Inventory Management System Project\obj\Debug\Inventory Management System Project_MarkupCompile.cache
+C:\Users\Salal Computers\source\repos\Inventory Management System Project\Inventory Management System Project\obj\Debug\Inventory Management System Project.g.resources
+C:\Users\Salal Computers\source\repos\Inventory Management System Project\Inventory Management System Project\obj\Debug\Inventory_Management_System_Project.Properties.Resources.resources
+C:\Users\Salal Computers\source\repos\Inventory Management System Project\Inventory Management System Project\obj\Debug\Inventory Management System Project.csproj.GenerateResource.cache
+C:\Users\Salal Computers\source\repos\Inventory Management System Project\Inventory Management System Project\obj\Debug\Inventory Management System Project.csproj.CoreCompileInputs.cache
+C:\Users\Salal Computers\source\repos\Inventory Management System Project\Inventory Management System Project\obj\Debug\Inventory Management System Project.exe
+C:\Users\Salal Computers\source\repos\Inventory Management System Project\Inventory Management System Project\obj\Debug\Inventory Management System Project.pdb
