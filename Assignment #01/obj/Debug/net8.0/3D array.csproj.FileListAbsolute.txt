@@ -1,0 +1,28 @@
+E:\VP\Assignment #01\3D array\bin\Debug\net8.0\3D array.exe
+E:\VP\Assignment #01\3D array\bin\Debug\net8.0\3D array.deps.json
+E:\VP\Assignment #01\3D array\bin\Debug\net8.0\3D array.runtimeconfig.json
+E:\VP\Assignment #01\3D array\bin\Debug\net8.0\3D array.dll
+E:\VP\Assignment #01\3D array\bin\Debug\net8.0\3D array.pdb
+E:\VP\Assignment #01\3D array\obj\Debug\net8.0\3D array.GeneratedMSBuildEditorConfig.editorconfig
+E:\VP\Assignment #01\3D array\obj\Debug\net8.0\3D array.AssemblyInfoInputs.cache
+E:\VP\Assignment #01\3D array\obj\Debug\net8.0\3D array.AssemblyInfo.cs
+E:\VP\Assignment #01\3D array\obj\Debug\net8.0\3D array.csproj.CoreCompileInputs.cache
+E:\VP\Assignment #01\3D array\obj\Debug\net8.0\3D array.dll
+E:\VP\Assignment #01\3D array\obj\Debug\net8.0\refint\3D array.dll
+E:\VP\Assignment #01\3D array\obj\Debug\net8.0\3D array.pdb
+E:\VP\Assignment #01\3D array\obj\Debug\net8.0\3D array.genruntimeconfig.cache
+E:\VP\Assignment #01\3D array\obj\Debug\net8.0\ref\3D array.dll
+E:\VP\Assignment #01\obj\Debug\net8.0\3D array.GeneratedMSBuildEditorConfig.editorconfig
+E:\VP\Assignment #01\obj\Debug\net8.0\3D array.AssemblyInfoInputs.cache
+E:\VP\Assignment #01\obj\Debug\net8.0\3D array.AssemblyInfo.cs
+E:\VP\Assignment #01\obj\Debug\net8.0\3D array.csproj.CoreCompileInputs.cache
+E:\VP\Assignment #01\obj\Debug\net8.0\3D array.dll
+E:\VP\Assignment #01\obj\Debug\net8.0\refint\3D array.dll
+E:\VP\Assignment #01\obj\Debug\net8.0\3D array.pdb
+E:\VP\Assignment #01\bin\Debug\net8.0\3D array.exe
+E:\VP\Assignment #01\bin\Debug\net8.0\3D array.deps.json
+E:\VP\Assignment #01\bin\Debug\net8.0\3D array.runtimeconfig.json
+E:\VP\Assignment #01\bin\Debug\net8.0\3D array.dll
+E:\VP\Assignment #01\bin\Debug\net8.0\3D array.pdb
+E:\VP\Assignment #01\obj\Debug\net8.0\3D array.genruntimeconfig.cache
+E:\VP\Assignment #01\obj\Debug\net8.0\ref\3D array.dll
